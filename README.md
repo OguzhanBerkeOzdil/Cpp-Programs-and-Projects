@@ -14,3 +14,7 @@ This repository contains small programs, form applications, and projects written
 
 - File: Project1/project1.c
 - Description: Project 1, [add description]
+
+## Licence
+
+This project is licensed under the MIT License. For more information, see the LICENSE file.
